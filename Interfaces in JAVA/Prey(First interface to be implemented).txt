@@ -1,0 +1,6 @@
+package iMMANTECH;
+
+public interface Prey {
+
+	void flee();
+}
